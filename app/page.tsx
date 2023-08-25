@@ -40,7 +40,7 @@ export default function Home() {
         />
       </div>
       <div className="content text-2xl text-center leading-10">
-        <p>Just a cool guy on the internet making cool stuff! 😎</p>
+        <p>Just a cool guy making cool stuff on the internet! 😎</p>
         <p>Coming soon...</p>
         <p>Watch this space!</p>
       </div>
