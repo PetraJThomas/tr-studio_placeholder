@@ -40,8 +40,7 @@ export default function Home() {
         />
       </div>
       <div className="content text-2xl text-center leading-10">
-        <p>Just a cool guy making cool stuff on the internet! 😎</p>
-        <p>Watch this space!</p>
+        <p>Just a cool guy making stuff on the web 😎</p>
         <p>Coming soon...</p>
       </div>
       {/* <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
